@@ -16,8 +16,12 @@ The `--global` flag makes this configuration apply globally to all your Git repo
 1)  **Clone the Repository:** ```git clone <repository_url>```
     Replace <repository_url> with the URL of the repository you want to clone. This creates a local copy of the repository on your machine.
 
+![image](https://github.com/xeedotechnologies/SampleRepo/assets/159549820/631bc579-3485-440f-8568-48d986e30015)
+
 2) **Navigate to the Cloned Repository:** ```cd <repository_directory>```
    Change into the directory that was created when you cloned the repository.
+
+![image](https://github.com/xeedotechnologies/SampleRepo/assets/159549820/55b8cb0e-52cc-4a2c-9dd5-5d38de01fe5c)
 
 3) **Create a Branch:**
  ```
@@ -26,11 +30,16 @@ git checkout <branch_name>
 ```
   Create a new branch to work on your changes. The second command switches to the newly created branch.
 
+![image](https://github.com/xeedotechnologies/SampleRepo/assets/159549820/f55c460b-74c5-4754-873e-58384b389c07)
+
+
 4) **Make Changes:**
    Modify the files in your local repository according to your requirements.
 
 5) **Check the Status:** ```git status```
    Check the status of your working directory and see which files are modified or untracked
+
+![image](https://github.com/xeedotechnologies/SampleRepo/assets/159549820/284801e7-8210-451f-a635-bd241685b4d7)
 
 6) **Add and Commit Changes:**
 ```
@@ -39,8 +48,12 @@ git commit -m "Your descriptive commit message"
 ```
   Stage and commit your changes. The commit message should describe the purpose of your changes.
 
+![image](https://github.com/xeedotechnologies/SampleRepo/assets/159549820/0ea01009-9530-4683-ba97-d90eb8a1f49d)
+
 6) **Push Changes to Remote Repository:** ```git push origin <branch_name>```
   Push your changes to the remote repository on the branch you created.
+
+![image](https://github.com/xeedotechnologies/SampleRepo/assets/159549820/252031b0-4ffd-4990-937f-d12c525fd1f5)
 
 ##  The steps to create a local repository, make your initial commit, and push it to GitHub:
 
