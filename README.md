@@ -30,6 +30,9 @@ git checkout <branch_name>
 ```
   Create a new branch to work on your changes. The second command switches to the newly created branch.
 
+![image](https://github.com/xeedotechnologies/SampleRepo/assets/159549820/f55c460b-74c5-4754-873e-58384b389c07)
+
+
 4) **Make Changes:**
    Modify the files in your local repository according to your requirements.
 
